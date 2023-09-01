@@ -1,0 +1,5 @@
+name: vanilla-10.1.2
+recipe: drupal10
+config:
+  webroot: web
+  xdebug: true
